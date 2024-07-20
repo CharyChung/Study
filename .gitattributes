@@ -1,2 +1,1 @@
-Machine filter=lfs diff=lfs merge=lfs -text
-Learning/Practice/kaggle/房价预测/california-house-prices/train.csv filter=lfs diff=lfs merge=lfs -text
+Machine_Learning/Practice/kaggle/房价预测/california-house-prices/train.csv filter=lfs diff=lfs merge=lfs -text
